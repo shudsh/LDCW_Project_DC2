@@ -1,4 +1,4 @@
-# LDCW_Project_DC2
+# About LDCW_Project_DC2
 This repository is for LDCW 6123 Project. The type of project that has been chosen is business where we are focusing on footwear designs and products. The brand name for our business has been established as Gortus Thynk.
 
 In this project, we managed to deliver:
